@@ -1,6 +1,6 @@
 # Moises_3Ds
 
-Moises_3Ds responde a un proceso de modificación de región.Con este proceso el juego aparecerá con Región Free y, con ello, evitaremos baneos de eshop en nuestra consola 3Ds. Para la realización de este proceso podemos optar por dos vías alternativas pero complementarias que concluirán en el mismo punto:
+Moises_3Ds responde a un proceso de modificación de región.Con este proceso el juego aparecerá con Región Free y, con ello, evitaremos incompatibilidades con la eshop en nuestra consola 3Ds. Para la realización de este proceso podemos optar por dos vías alternativas pero complementarias que concluirán en el mismo punto:
 
 -	Vía .3ds
 
@@ -50,7 +50,7 @@ La manera .cia precisará de 3 programas: GodMode9, GabrieloRomToolsGUI y HxD.
 
 ENGLISH 
 
-Moises_3Ds responds to a region modification process. With this process the game will appear with Free Region and, with this, we will avoid bans eshop on our 3Ds console.
+Moises_3Ds responds to a region modification process. With this process the game will appear with Free Region and, with this, we will avoid incompatibilities eshop on our 3Ds console.
 For the realization of this process we can opt for two alternative but complementary ways that will conclude to the same point: 
 
 -	Vía .3ds
