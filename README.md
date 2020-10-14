@@ -2,7 +2,7 @@
 
 Moises_3Ds responde a un proceso de modificación de región.Con este proceso el juego aparecerá con Región Free y, con ello, evitaremos baneos de eshop en nuestra consola 3Ds. Para la realización de este proceso podemos optar por dos vías alternativas pero complementarias que concluirán en el mismo punto:
 
---Vía .3Ds--
+-	Vía .3ds
 
 La manera .3Ds precisará de 2 programas: GabrieloRomToolsGUI y HxD.﻿
 
@@ -24,7 +24,7 @@ La manera .3Ds precisará de 2 programas: GabrieloRomToolsGUI y HxD.﻿
 
 7.2º Paso: Comprobar que la región del juego.3ds es Región Free mediante el uso de Citra.
 
---Vía .cia--
+-	Vía .cia
 
 La manera .cia precisará de 3 programas: GodMode9, GabrieloRomToolsGUI y HxD.
 
