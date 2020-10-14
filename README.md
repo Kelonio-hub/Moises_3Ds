@@ -45,3 +45,54 @@ La manera .cia precisará de 3 programas: GodMode9, GabrieloRomToolsGUI y HxD.
 7.1º Paso: Comprobar que la región del juego.cia es Región Free mediante el uso del FBI. No obstante, podéis reinscribir el juego instalado en el 1º Paso o eliminarlo antes de la nueva instalación.
 
 7.2º Paso: Comprobar que la región del juego.3ds es Región Free mediante el uso de Citra.
+
+
+
+ENGLISH 
+
+Moises_3Ds responds to a region modification process. With this process the game will appear with Free Region and, with this, we will avoid bans eshop on our 3Ds console.
+For the realization of this process we can opt for two alternative but complementary ways that will conclude to the same point: 
+
+-	Vía .3ds
+The .3ds way will require 2 programs: GabrieloRomToolsGUI and HxD.
+
+Step 1: Have a .3ds file, create a New Folder (you can rename it) and put the file inside.
+
+Step 2: Open the GabrieloRomToolsGUI program. Go to the Extract 3ds tab, select the.3ds game in the first option and select the New Folder in the second option. Finally, we'll click Extract! With this, we will get in the New Folder a file called game.cxi
+
+Step 3: Go to the Extract NCCH tab, select the game.cxi file in the first option and select the New Folder in the second option. Finally, we'll give Extract! With this, we will get several files but the most important one will be icon.icn (located in the exefs folder).
+
+Step 4: Open the HxD program and drag the icon.icn file. Go to the "Search" tab and select the "Go to..." option. In "Position" we will write 2018 and give it to "OK". Next, we will modify the serial by FF FF FF 07. We will go to the "File" tab and select the "Save" option. With this, we will get: the icon.icn file (the edited one) and the icon.icn.bak file (we will have to remove it from the exefs folder or delete it).
+
+Step 5: Go to the Rebuild NCCH tab inside GabrieloRomToolsGUI. Select the New Folder in the third option and give Rebuild. With this, we will get the edited.cxi file.
+
+Step 6.1: (.cxi to .cia): Go to the Cia tools tab and select the New Folder in the first option. Then press the Add button, type edited.cxi, and hit OK. Finally, we'll hit Rebuild! With this, we will get the example.cia file (you can rename it).
+
+Step 6.2: (.cxi to .3ds): Go to the Rebuild 3ds tab and select the New Folder in the first option. Then press the Add button, type edited.cxi, and hit OK. Finally, we'll hit Rebuild! With this, we will get the example.3ds file (you can rename it).
+
+Step 7.1: Check that the game region.cia is Free Region by using the FBI.
+
+Step 7.2: Check that the game region.3ds is Free Region by using Citra.
+
+-	Vía .cia
+The .cia way will require 3 programs: GabrieloRomToolsGUI,HxD and Godmode9.
+
+Step 1: Install a game on your console (it will match your region). Do not open the game or enter the eshop to avoid baning.
+
+Step 2: Open GodMode9 (Star+Power with console turned off). Go to the SYSNAND SD directory and simultaneously press the R+A button. A new option will appear on the lower screen, we'll select Search for titles. In this new menu will appear all the games and updates that we have installed on our console. We'll look for the game we want to convert to .cxi. Once found, we will give you the A, TMD file options... , Dump CXI/NDS file. Once the conversion is finished, we will put the Sd card on our computer. We will go to the gm9 folder, the Out Folder and there will be our .cxi game.
+
+Step 3: Create a New Folder on your desktop and put the .cxi file in there. Then open the GabrieloRomToolsGUI program and go to the Extract NCCH tab, select the game.cxi file in the first option and select the New Folder in the second option. Finally, we'll give Extract! With this, we will get several files but the most important one will be icon.icn (located in the exefs folder).
+
+Step 4: Open the HxD program and drag the icon.icn file. Go to the "Search" tab and select the "Go to..." option. In "Position" we will write 2018 and give it to "OK". Next, we will modify the serial by FF FF FF 07. We will go to the "File" tab and select the "Save" option. With this, we will get: the icon.icn file (the edited one) and the icon.icn.bak file (we will have to remove it from the exefs folder or delete it).
+
+Step 5: Go to the Rebuild NCCH tab inside GabrieloRomToolsGUI. Select the New Folder in the third option and give Rebuild. With this we will get the edited.cxi file.
+
+Step 6.1: (.cxi to .cia): Go to the Cia tools tab and select the New Folder in the first option. Then press the Add button, type edited.cxi, and hit OK. Finally, we'll hit Rebuild! With this, we will get the example.cia file (you can rename it).
+
+Step 6.2: (.cxi to .3ds): Go to the Rebuild 3ds tab and select the New Folder in the first option. Then press the Add button, type edited.cxi, and hit OK. Finally, we'll hit Rebuild! With this, we will get the example.3ds file (you can rename it).
+
+Step 7.1: Check that the game region.cia is Free Region by using the FBI. However, you can rewrite the installed game in the 1st Step or remove it before the new installation.
+
+Step 7.2: Check that the game region.3ds is Free Region by using Citra.
+
+
