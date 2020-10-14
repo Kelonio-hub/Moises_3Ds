@@ -1,6 +1,6 @@
 # Moises_3Ds
 
-Moises_3Ds responde a un proceso de modificación de región.Con este proceso el juego aparecerá con Región Free y, con ello, evitaremos baneos en nuestra consola 3Ds. Para la realización de este proceso podemos optar por dos maneras alternativas pero complementarias que concluirán en el mismo punto:
+Moises_3Ds responde a un proceso de modificación de región.Con este proceso el juego aparecerá con Región Free y, con ello, evitaremos baneos de eshop en nuestra consola 3Ds. Para la realización de este proceso podemos optar por dos vías alternativas pero complementarias que concluirán en el mismo punto:
 
 --Vía .3Ds--
 
